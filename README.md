@@ -27,3 +27,6 @@ CodeGrind is an AI-powered coding platform for fast, daily micro-challenges that
 - 📈 **Progress Tracking**
   - Challenge history
   - Time spent, success rate, and milestones
+
+
+Codify is built for developers who want to level up their skills daily — without burnout. Whether you’re prepping for interviews or just love solving problems, this platform makes practice smarter and faster.
